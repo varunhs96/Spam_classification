@@ -69,6 +69,7 @@ Precision: Measures correctness of spam predictions
 Recall: Measures how many actual spam messages were detected
 
 F1-score: Harmonic mean of precision and recall
+
 Future Improvements
 
 Improve text preprocessing with advanced NLP techniques
